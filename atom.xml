@@ -3,11 +3,11 @@
   <title>Javelin</title>
   
   
-  <link href="https://zheng-suijian.github.io/Javelin.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://zheng-suijian.github.io/Javelin.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2021-10-26T08:47:12.662Z</updated>
-  <id>https://zheng-suijian.github.io/Javelin.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>すいじあん</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zheng-suijian.github.io/Javelin.github.io/2021/10/26/hello-world/"/>
-    <id>https://zheng-suijian.github.io/Javelin.github.io/2021/10/26/hello-world/</id>
+    <link href="http://example.com/2021/10/26/hello-world/"/>
+    <id>http://example.com/2021/10/26/hello-world/</id>
     <published>2021-10-26T08:47:12.662Z</published>
     <updated>2021-10-26T08:47:12.662Z</updated>
     
